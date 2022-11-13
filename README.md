@@ -10,7 +10,7 @@ The following datasets were used:
 3. nips4b: This dataset was procured from the Bird NIPS4B competition. Found at: (https://www.kaggle.com/competitions/multilabel-bird-species-classification-nips2013/rules). Only the nips4b train set and the nips4b_bird_challenge_train_labels were used from the folder. 
 
 Running the code: 
-The code can be run with minimal changes. The only changes to be made are to the dataset path names that the user has downloaded to match those used in the code. If the user is not uploading the datasets via google drive, the first block of code can be commented out. 
+The code can be run with minimal changes. The only changes to be made are to the dataset path names that the user has downloaded to match those used in the code. If the user is not uploading the datasets via google drive, the first block of code can be commented out. The second block of code can be modified to unzip the folders from the directory that the user has stored the data. 
 
 Sources: 
 1. https://www.v7labs.com/blog/autoencoders-guide
